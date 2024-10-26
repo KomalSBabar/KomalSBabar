@@ -14,7 +14,11 @@
 ![](https://komarev.com/ghpvc/?username=KomalSBabar)
 ## About Komal
 <p style="font-size:7px;">
-Just a guy looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft really awesome software 
+- 👋 Hi, I’m @KomalSBabar <br>
+- 👀 I’m interested in web development, especially in crafting seamless user experiences and dynamic web applications.<br>
+- 🌱 I’m currently learning more about advanced JavaScript frameworks and exploring new trends in web development.<br>
+- 💞️ I’m looking to collaborate on projects that involve JS, PHP,Laravel. I’m open to both open-source contributions and new project ideas.<br>
+- ⚡ Fun fact: I love experimenting with new web technologies and am always eager to tackle new challenges in the coding world
 </p>
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
