@@ -5,7 +5,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3DF7D9&random=false&width=435&lines=Hi%2C+I+am+Komal+Babar%F0%9F%91%8B%F0%9F%8F%BD;A+Web+Developer%F0%9F%9A%80;Let's+Connect!" alt="Typing SVG" /></a>
 </div>
 
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/Shubhambabar21)
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/komal-babar-baa978322/)
 ![Instagram](https://skillicons.dev/icons?i=instagram)
 
@@ -30,23 +30,19 @@
 	<td><strong>Languages</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,firebase,mongodb" ></td>
-		<td><img src = "https://skillicons.dev/icons?i=javascript,java,c&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,laravel" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=javascript,php,laravel&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Cloud</strong></td>
 	<td><strong>Tools</strong></td>
 </tr>
 <tr>
-	<td><img src = "https://skillicons.dev/icons?i=docker,kubernetes,azure,netlify&theme=dark"></td>
-	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,vim,githubactions&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=azure&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,mysql&theme=dark"></td>
 </tr>
 </table>
 
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-
-## Github Trophies
-![](https://github-profile-trophy.vercel.app/?username=KomalSBabar&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
