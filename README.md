@@ -26,19 +26,19 @@
  
 <table>
 <tr>
-	<td><strong>Web Development</strong></td>
+	<td colspan="2"><strong>Web Development</strong></td>
+	
+</tr>
+<tr>
+		<td colspan="2"><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,laravel" ></td>
+		
+</tr>
+<tr>
 	<td><strong>Languages</strong></td>
-</tr>
-<tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,laravel" ></td>
-		<td><img src = "https://skillicons.dev/icons?i=javascript,php,laravel&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Cloud</strong></td>
 	<td><strong>Tools</strong></td>
 </tr>
 <tr>
-	<td><img src = "https://skillicons.dev/icons?i=azure&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=javascript,php,laravel&theme=dark"></td>
 	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,mysql&theme=dark"></td>
 </tr>
 </table>
@@ -46,8 +46,3 @@
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-## Github Stats
-<p style="display:flex; align=center; justify-content:center; ">
-<img src="https://github-readme-stats.vercel.app/api?username=KomalSBabar&theme=midnight-purple" style="margin-right:4px;">
-<img src="https://streak-stats.demolab.com/?user=KomalSBabar&theme=holi-theme">
-</p>
